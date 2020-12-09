@@ -3,3 +3,5 @@ Fompound is dedicated to building a decentralized financial aggregator in the IP
 Web: https://fompound.com
 
 Mail: info@fompound.com
+
+Thanks Compound Labs for the contribution. 
